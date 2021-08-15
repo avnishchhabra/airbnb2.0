@@ -10,7 +10,7 @@ function Banner() {
             />
             <div className="absolute top-1/2 text-center w-full">
                 <p className="">Not sure where to go? perfect.</p>
-                <button className="text-purple-500 px-10 py-5 bg-white rounded-full shadow-md mt-3 hover:shadow-2xl active:scale-90 transition duration-200">I'm flexible</button>
+                <button className="text-purple-500 px-8 py-3 bg-white rounded-full shadow-md mt-3 hover:shadow-2xl active:scale-90 transition duration-200">I'm flexible</button>
             </div>
         </div>
     )
