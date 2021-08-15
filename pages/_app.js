@@ -1,5 +1,4 @@
 import 'tailwindcss/tailwind.css'
-import './index.css'
 import './styles/global.css'
 import Router from 'next/router'
 import ProgessBar from '@badrap/bar-of-progress'
